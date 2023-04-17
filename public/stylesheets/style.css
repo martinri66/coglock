@@ -11,8 +11,9 @@ img {
     object-fit:contain;
 }
 .banner {
-    background: white url("/images/skyonly.jpg") no-repeat;
+    background: white url("/images/skyTree1.jpg") no-repeat;
     overflow:hidden;
+    height:auto;
 }
 .bb {
     border-bottom: 1px solid black;
